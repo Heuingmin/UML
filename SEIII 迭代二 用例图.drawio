@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T15:07:20.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="QdGSedN549b6ju2ZowU7" version="16.6.5" type="github"><diagram id="R_yFwiSIay2vpu393646" name="Page-1">7Zpbc6M2FMc/jR6TQQgh8Yht3G0nO0knvWwfiVFsGow8RI6dfvpKIDAI+ZJsbHZ3NuPJSEcgof/56egCAI2X21+KeLX4zBOWAddJtgBNgOsGGMr/yvBaGTyIK8O8SJPKBHeG+/Q/po2Otq7ThD13LhScZyJddY0znudsJjq2uCj4pnvZI8+6ra7iOesZ7mdx1rf+nSZioa3QD3YFn1g6X+imqUuqgmVcX6x78ryIE75pmVAE0LjgXFSp5XbMMqVdrUt133RPafNgBcvFKTfcLPzHrXj67SlEV1fT24n3L4uuoO7GS5ytdY+B62eywtFCtuDPVaq2PBSmRbbWvqzspnittSv4Ok+Yat6RxZtFKtj9Kp6p0o2ERbUhlpnMQZmMs3Sey/RMdocVTXUvrBBsu7fLsBFSAsj4koniVV6ib/CI1l7DV7tis/Ok52vbouVETLUx1vTMm6p3AsuE1tiu90P26/Qv78+NuF0tfx+t77fRZ/8K9uWOPDAag4CACAM6BhSrxIiAEJdFofqZykqWViq5XmbhTHAllxIqldzexA8su+PPqUi50vOBC8GXrQtCLbTghgf4WmRpzsbNSHIaL/QktzhmrxeQ4QVI+m5AFi/453KCa3GC1H4KAthygg8CH4yCH0t7NxhYe2TRXrIegRCqhHw86isnSFcE1BZ4fiRveM7A3vAs3vABDcvgUzpBpqMAhKEaFWpIyIjk95wgW5LzMTse5D9AQ592NUSWoA5di4hni+nYLqJEmoKIAjpRVKtQPlI/FWDCknaqrhmROvYMKytxu7LSC6pqX5nYZ0pDQ6xCR4UmpaXOMoH0JCojyagK5NMSaBleZGjvx5A36vxVSxKMDXz9oYW2zYZ9fP1yWiQqETplgoKRo7RW+soFizeorL6Br2dZY1xWVttE1w+tFIRTQL0abTIsmxR3FwuXDK1WEU+bn7CCVIZQJeJEjfEhRSTmatey4rqsiLb5qbfDUOMaghDphAymSuhpPXVJxYcd4NgY4IOPb7+vak+fPAnVEYTM5TxnXU26m2O2TcUXXaLS/yj7NTL+dOFk27pr8trK3LEild1T++fKlsuufmlnqopxnd1VVebquqqusKR3NtJbYTzzdTFjB1ZHWhYRF3Mmji1F++5v+Rdb3FvbCpbFIn3pPq7N57qFO57KjuwOCnxjVkYGNlU39V3tQxajIgy7FfX4q3ToVVQi2HT7/VSSj6Wyxgd28bFxeYCmMtdDUxPvdIjHBxF/H5aHVj1HsURDYukai0UPvxNL5BgVOZfFkv4Mlu8Nlvs3R4MFSyPGNTvwNwdLZARLeFkqoWV5+d1geTko69cux6Acdgb/KCj9wKiIXBhKy3L9e4ESDgrl/sO5bwVK15x2T4WSBOQaE4QDBF1KHYKMuAmvCcTEpQTLoEqN5zw3sD93Qh8bRwddcnrukTn5VGQlpYeQdQdF9kzbpLOxdZSZYcOcsbtojrzezAw8yAwakpnmlcqhLyXGtzc30fiP0z6PEGwrulg9i4I/sTHP1HvMGrvHNMsMU+9bCfON5jJNkmzfwVwXXt2rrzp8P/6Zhe0rC/OM5YSjOZndfTBTeXb31RGK/gc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-28T07:55:13.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="f9E1En0Avjf4F6GGmPAb" version="17.3.0" type="github">
+  <diagram id="R_yFwiSIay2vpu393646" name="Page-1">
+    <mxGraphModel dx="951" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lh6fxtkJkA3--FOD4jeE-19" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="470" y="20" width="360" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="blIFV4UwtOpmQBuSxEM6-2" value="发包方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="blIFV4UwtOpmQBuSxEM6-4" value="报告排序" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh6fxtkJkA3--FOD4jeE-1" value="报告筛选" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh6fxtkJkA3--FOD4jeE-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="blIFV4UwtOpmQBuSxEM6-2" target="blIFV4UwtOpmQBuSxEM6-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lh6fxtkJkA3--FOD4jeE-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="blIFV4UwtOpmQBuSxEM6-2" target="Lh6fxtkJkA3--FOD4jeE-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lh6fxtkJkA3--FOD4jeE-21" value="&lt;h1&gt;COLLECT&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdzP17GwHe_6v6Q6AtC1-1" value="报告聚类查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdzP17GwHe_6v6Q6AtC1-2" value="报告统计&lt;br&gt;数据查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdzP17GwHe_6v6Q6AtC1-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="blIFV4UwtOpmQBuSxEM6-2" target="CdzP17GwHe_6v6Q6AtC1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="255" as="sourcePoint" />
+            <mxPoint x="560" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdzP17GwHe_6v6Q6AtC1-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="blIFV4UwtOpmQBuSxEM6-2" target="CdzP17GwHe_6v6Q6AtC1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="265" as="sourcePoint" />
+            <mxPoint x="570" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
